@@ -58,12 +58,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,10 +94,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2247" />
-    <option name="y" value="81" />
-    <option name="width" value="1053" />
-    <option name="height" value="1100" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -153,7 +153,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555448559982" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="E:/Projects/ESitesTests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projects/ESitesTests" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -268,24 +268,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestFirstTry_(1) - 2019.04.17 at 18h 32m 30s.xml">
-      <configuration name="TestFirstTry (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestFirstTry_(1) - 2019.04.17 at 18h 33m 16s.xml">
-      <configuration name="TestFirstTry (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLoginLitecart_testFirstTry - 2019.04.17 at 18h 38m 36s.xml">
-      <configuration name="TestLoginLitecart.testFirstTry" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSearchYandex - 2019.04.17 at 18h 41m 22s.xml">
-      <configuration name="TestSearchYandex" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 45m 15s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 45m 58s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 46m 11s.xml">
       <configuration name="TestLoginLitecart" configurationId="JUnit" />
     </history-entry>
@@ -297,6 +279,24 @@
     </history-entry>
     <history-entry file="TestLoginLitecart_testLoginLitecart - 2019.04.17 at 18h 57m 46s.xml">
       <configuration name="TestLoginLitecart.testLoginLitecart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 58m 02s.xml">
+      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 58m 09s.xml">
+      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 58m 35s.xml">
+      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginLitecart - 2019.04.17 at 19h 04m 32s.xml">
+      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginLitecart - 2019.04.17 at 19h 04m 53s.xml">
+      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginLitecart - 2019.04.17 at 19h 05m 18s.xml">
+      <configuration name="TestLoginLitecart" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -370,12 +370,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -10,6 +10,7 @@ public class TestLoginLitecart {
 
     @Test
     public void testLoginLitecart() {
+        driver.manage().window().maximize();
         driver.navigate().to("http://localhost/litecart/admin");
         driver.findElement(By.name("username")).sendKeys("admin");
         driver.findElement(By.name("password")).sendKeys("admin");
