@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344e6e7b-5ca3-46d2-9f21-cf32262082d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestManyBrowsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/build/classes/java/test/META-INF/java-example.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/build/classes/java/test/TestLoginLitecart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/build/classes/java/test/TestSearchYandex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java/target/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -25,12 +42,20 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/java-example">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="java-example" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-example" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
             </expand>
             <select />
@@ -44,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="391">
+              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#844#845#0" expanded="true" />
@@ -56,14 +81,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestManyBrowsers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="187">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,13 +120,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/java/pom.xml" />
-        <option value="$PROJECT_DIR$/java-example/build.gradle" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestFirstTry.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Abstract.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java" />
+        <option value="$PROJECT_DIR$/java-example/build.gradle" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/TestManyBrowsers.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
@@ -104,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,14 +171,14 @@
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
               <item name="java-example" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
               <item name="java-example" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -142,7 +186,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,43 +214,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestLoginLitecart">
-    <configuration name="TestFirstTry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="TestFirefoxBrowsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.TestFirstTry" />
+      <option name="MAIN_CLASS_NAME" value="TestFirefoxBrowsers" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLoginLitecart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.test" />
+    <configuration name="TestFirefoxBrowsers.testLoginLitecart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLoginLitecart" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLoginLitecart.testFirstTry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLoginLitecart" />
-      <option name="METHOD_NAME" value="testFirstTry" />
+      <option name="MAIN_CLASS_NAME" value="TestFirefoxBrowsers" />
+      <option name="METHOD_NAME" value="testLoginLitecart" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TestLoginLitecart.testLoginLitecart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.test" />
+      <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestLoginLitecart" />
       <option name="METHOD_NAME" value="testLoginLitecart" />
@@ -217,7 +245,7 @@
       </method>
     </configuration>
     <configuration name="TestSearchYandex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.test" />
+      <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestSearchYandex" />
       <option name="TEST_OBJECT" value="class" />
@@ -234,11 +262,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSearchYandex.testFirstTry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.test" />
+    <configuration name="TestSearchYandex.testSearchYandex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestSearchYandex" />
-      <option name="METHOD_NAME" value="testFirstTry" />
+      <option name="METHOD_NAME" value="testSearchYandex" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -246,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestLoginLitecart" />
+        <item itemvalue="JUnit.TestFirefoxBrowsers" />
+        <item itemvalue="JUnit.TestFirefoxBrowsers.testLoginLitecart" />
+        <item itemvalue="JUnit.TestSearchYandex" />
+        <item itemvalue="JUnit.TestSearchYandex.testSearchYandex" />
         <item itemvalue="JUnit.TestLoginLitecart.testLoginLitecart" />
-        <item itemvalue="JUnit.TestSearchYandex" />
-        <item itemvalue="JUnit.TestLoginLitecart.testFirstTry" />
-        <item itemvalue="JUnit.TestSearchYandex" />
       </list>
     </recent_temporary>
   </component>
@@ -268,42 +296,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 46m 11s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    <history-entry file="TestManyBrowsers_testLoginLitecart - 2019.04.22 at 19h 10m 34s.xml">
+      <configuration name="TestManyBrowsers.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 53m 04s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    <history-entry file="TestManyBrowsers - 2019.04.22 at 19h 13m 47s.xml">
+      <configuration name="TestManyBrowsers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 53m 54s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    <history-entry file="TestManyBrowsers - 2019.04.22 at 19h 17m 02s.xml">
+      <configuration name="TestManyBrowsers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLoginLitecart_testLoginLitecart - 2019.04.17 at 18h 57m 46s.xml">
+    <history-entry file="TestManyBrowsers - 2019.04.22 at 19h 17m 09s.xml">
+      <configuration name="TestManyBrowsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManyBrowsers - 2019.04.22 at 19h 33m 30s.xml">
+      <configuration name="TestManyBrowsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManyBrowsers - 2019.04.22 at 19h 33m 57s.xml">
+      <configuration name="TestManyBrowsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestManyBrowsers - 2019.04.22 at 19h 34m 29s.xml">
+      <configuration name="TestManyBrowsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginLitecart_testLoginLitecart - 2019.04.22 at 19h 35m 54s.xml">
       <configuration name="TestLoginLitecart.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 58m 02s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    <history-entry file="TestSearchYandex_testSearchYandex - 2019.04.22 at 19h 36m 23s.xml">
+      <configuration name="TestSearchYandex.testSearchYandex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 58m 09s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 18h 58m 35s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 19h 04m 32s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 19h 04m 53s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLoginLitecart - 2019.04.17 at 19h 05m 18s.xml">
-      <configuration name="TestLoginLitecart" configurationId="JUnit" />
+    <history-entry file="TestSearchYandex - 2019.04.22 at 19h 37m 12s.xml">
+      <configuration name="TestSearchYandex" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -329,9 +357,27 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Gradle" order="5" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -348,18 +394,64 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/java/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Name.java" />
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestManyBrowsers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Name.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/builders/JUnit4Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="391">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#844#845#0" expanded="true" />
@@ -368,18 +460,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestManyBrowsers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
   </component>
   <component name="masterDetails">
     <states>

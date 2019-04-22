@@ -2,11 +2,11 @@ import org.junit.After;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class TestLoginLitecart {
+public class TestFirefoxBrowsers {
 
-    private WebDriver driver = new ChromeDriver();
+    private WebDriver driver = new FirefoxDriver();
 
     @Test
     public void testLoginLitecart() {
@@ -20,6 +20,7 @@ public class TestLoginLitecart {
 
     @After
     public void stopDriver() {
+
         driver.quit();
     }
 }
