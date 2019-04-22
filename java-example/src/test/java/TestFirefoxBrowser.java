@@ -4,12 +4,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class TestFirefoxBrowsers {
+public class TestFirefoxBrowser {
 
     private WebDriver driver = new FirefoxDriver();
 
     @Test
-    public void testLoginLitecart() {
+    public void test() {
         driver.manage().window().maximize();
         driver.navigate().to("http://localhost/litecart/admin");
         driver.findElement(By.name("username")).sendKeys("admin");
