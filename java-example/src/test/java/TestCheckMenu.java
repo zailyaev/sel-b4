@@ -9,7 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class TestCheckMenu {
 
     private WebDriver driver = new ChromeDriver();
-    Wait<WebDriver> wait = new WebDriverWait(driver, 5, 1000);
 
     @Test
     public void testLoginLitecart() {
