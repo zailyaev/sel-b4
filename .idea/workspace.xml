@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344e6e7b-5ca3-46d2-9f21-cf32262082d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestInternetExplorerBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/TestFirefoxBrowsers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/TestFirefoxBrowsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/TestFirefoxBrowser.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java/target/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -55,34 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestFirefoxBrowser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestInternetExplorerBrowser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="60" lean-forward="true" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+            <state relative-caret-position="237">
+              <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,11 +65,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="340">
+              <caret line="20" column="10" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -110,6 +91,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Customer Modules</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,6 +114,7 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestFirefoxBrowsers.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestFirefoxBrowser.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestInternetExplorerBrowser.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java" />
       </list>
     </option>
   </component>
@@ -137,7 +124,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -215,22 +202,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestInternetExplorerBrowser">
-    <configuration name="TestFirefoxBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestCheckMenu.testLoginLitecart">
+    <configuration name="TestCheckMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestFirefoxBrowser" />
+      <option name="MAIN_CLASS_NAME" value="TestCheckMenu" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFirefoxBrowser.testLoginLitecart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCheckMenu.testLoginLitecart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCheckMenu" />
+      <option name="METHOD_NAME" value="testLoginLitecart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFirefoxBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestFirefoxBrowser" />
-      <option name="METHOD_NAME" value="testLoginLitecart" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -255,15 +251,6 @@
       </method>
     </configuration>
     <configuration name="TestSearchYandex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSearchYandex" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSearchYandex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestSearchYandex" />
@@ -274,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCheckMenu.testLoginLitecart" />
+        <item itemvalue="JUnit.TestCheckMenu" />
         <item itemvalue="JUnit.TestInternetExplorerBrowser" />
         <item itemvalue="JUnit.TestInternetExplorerBrowser.test" />
         <item itemvalue="JUnit.TestFirefoxBrowsers" />
-        <item itemvalue="JUnit.TestFirefoxBrowser.testLoginLitecart" />
-        <item itemvalue="JUnit.TestSearchYandex" />
       </list>
     </recent_temporary>
   </component>
@@ -296,35 +283,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestManyBrowsers_testLoginLitecart - 2019.04.22 at 19h 38m 04s.xml">
-      <configuration name="TestManyBrowsers.testLoginLitecart" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu - 2019.04.24 at 16h 35m 27s.xml">
+      <configuration name="TestCheckMenu" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestManyBrowsers - 2019.04.22 at 19h 38m 51s.xml">
-      <configuration name="TestManyBrowsers" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu_testLoginLitecart - 2019.04.24 at 16h 37m 08s.xml">
+      <configuration name="TestCheckMenu.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFirefoxBrowsers - 2019.04.22 at 19h 39m 23s.xml">
-      <configuration name="TestFirefoxBrowsers" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu_testLoginLitecart - 2019.04.24 at 16h 37m 51s.xml">
+      <configuration name="TestCheckMenu.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestFirefoxBrowsers - 2019.04.22 at 19h 39m 53s.xml">
-      <configuration name="TestFirefoxBrowsers" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu - 2019.04.24 at 16h 40m 58s.xml">
+      <configuration name="TestCheckMenu" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInternetExplorerBrowser - 2019.04.22 at 19h 43m 56s.xml">
-      <configuration name="TestInternetExplorerBrowser" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu_testLoginLitecart - 2019.04.24 at 16h 41m 19s.xml">
+      <configuration name="TestCheckMenu.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInternetExplorerBrowser - 2019.04.22 at 19h 47m 30s.xml">
-      <configuration name="TestInternetExplorerBrowser" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu_testLoginLitecart - 2019.04.24 at 16h 41m 38s.xml">
+      <configuration name="TestCheckMenu.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInternetExplorerBrowser - 2019.04.22 at 19h 49m 40s.xml">
-      <configuration name="TestInternetExplorerBrowser" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu_testLoginLitecart - 2019.04.24 at 16h 48m 37s.xml">
+      <configuration name="TestCheckMenu.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInternetExplorerBrowser - 2019.04.22 at 19h 53m 14s.xml">
-      <configuration name="TestInternetExplorerBrowser" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu_testLoginLitecart - 2019.04.24 at 17h 06m 19s.xml">
+      <configuration name="TestCheckMenu.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInternetExplorerBrowser - 2019.04.22 at 19h 57m 00s.xml">
-      <configuration name="TestInternetExplorerBrowser" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu_testLoginLitecart - 2019.04.24 at 17h 16m 52s.xml">
+      <configuration name="TestCheckMenu.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInternetExplorerBrowser - 2019.04.22 at 20h 00m 34s.xml">
-      <configuration name="TestInternetExplorerBrowser" configurationId="JUnit" />
+    <history-entry file="TestCheckMenu_testLoginLitecart - 2019.04.24 at 17h 40m 29s.xml">
+      <configuration name="TestCheckMenu.testLoginLitecart" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -444,28 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestFirefoxBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -478,11 +443,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestInternetExplorerBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="60" lean-forward="true" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        <state relative-caret-position="408">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestLoginLitecart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="10" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestSearchYandex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
