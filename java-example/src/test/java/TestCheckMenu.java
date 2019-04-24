@@ -11,7 +11,7 @@ public class TestCheckMenu {
     private WebDriver driver = new ChromeDriver();
 
     @Test
-    public void testLoginLitecart() {
+    public void test() {
         driver.manage().window().maximize();
         driver.navigate().to("http://localhost/litecart/admin");
         driver.findElement(By.name("username")).sendKeys("admin");
