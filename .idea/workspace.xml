@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344e6e7b-5ca3-46d2-9f21-cf32262082d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestCountriesSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/TestStickers.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/TestStickers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java/target/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -50,13 +51,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestStickers.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="187">
+              <caret line="11" column="37" selection-end-line="51" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1042#1050#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="46" column="60" lean-forward="true" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1290#1298#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,6 +111,8 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/MenuCheckTest.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestStickers.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/TestCountriesAndGeozones.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java" />
       </list>
     </option>
   </component>
@@ -183,25 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestStickers">
-    <configuration name="MenuCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MenuCheckTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCheckMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCheckMenu" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestCountriesZonesSort">
     <configuration name="TestCheckMenu.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -212,11 +211,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCheckMenu.testMenuCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCountriesAndGeozones" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCheckMenu" />
-      <option name="METHOD_NAME" value="testMenuCheck" />
+      <option name="MAIN_CLASS_NAME" value="TestCountriesAndGeozones" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCountriesAndGeozones.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCountriesAndGeozones" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCountriesZonesSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCountriesZonesSort" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCountriesZonesSort.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCountriesZonesSort" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -231,21 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStickers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestStickers" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestStickers" />
-        <item itemvalue="JUnit.TestCheckMenu" />
-        <item itemvalue="JUnit.TestCheckMenu.testMenuCheck" />
-        <item itemvalue="JUnit.MenuCheckTest" />
+        <item itemvalue="JUnit.TestCountriesZonesSort" />
+        <item itemvalue="JUnit.TestCountriesZonesSort.test" />
+        <item itemvalue="JUnit.TestCountriesAndGeozones.test" />
+        <item itemvalue="JUnit.TestCountriesAndGeozones" />
         <item itemvalue="JUnit.TestCheckMenu.test" />
       </list>
     </recent_temporary>
@@ -264,42 +282,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCheckMenu - 2019.04.26 at 13h 51m 25s.xml">
-      <configuration name="TestCheckMenu" configurationId="JUnit" />
+    <history-entry file="TestCountriesAndGeozones_test - 2019.04.29 at 16h 02m 32s.xml">
+      <configuration name="TestCountriesAndGeozones.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MenuCheckTest - 2019.04.26 at 14h 11m 23s.xml">
-      <configuration name="MenuCheckTest" configurationId="JUnit" />
+    <history-entry file="TestCountriesAndGeozones - 2019.04.29 at 16h 06m 24s.xml">
+      <configuration name="TestCountriesAndGeozones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MenuCheckTest - 2019.04.26 at 14h 12m 47s.xml">
-      <configuration name="MenuCheckTest" configurationId="JUnit" />
+    <history-entry file="TestCountriesAndGeozones - 2019.04.29 at 16h 06m 56s.xml">
+      <configuration name="TestCountriesAndGeozones" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCheckMenu_testMenuCheck - 2019.04.26 at 14h 17m 55s.xml">
-      <configuration name="TestCheckMenu.testMenuCheck" configurationId="JUnit" />
+    <history-entry file="TestCountriesAndGeozones_test - 2019.04.29 at 16h 09m 36s.xml">
+      <configuration name="TestCountriesAndGeozones.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCheckMenu_testMenuCheck - 2019.04.26 at 14h 18m 28s.xml">
-      <configuration name="TestCheckMenu.testMenuCheck" configurationId="JUnit" />
+    <history-entry file="TestCountriesZonesSort - 2019.04.29 at 16h 17m 30s.xml">
+      <configuration name="TestCountriesZonesSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCheckMenu - 2019.04.26 at 14h 24m 00s.xml">
-      <configuration name="TestCheckMenu" configurationId="JUnit" />
+    <history-entry file="TestCountriesZonesSort_test - 2019.04.29 at 16h 23m 01s.xml">
+      <configuration name="TestCountriesZonesSort.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCheckMenu - 2019.04.26 at 14h 25m 45s.xml">
-      <configuration name="TestCheckMenu" configurationId="JUnit" />
+    <history-entry file="TestCountriesZonesSort - 2019.04.29 at 16h 26m 01s.xml">
+      <configuration name="TestCountriesZonesSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCheckMenu - 2019.04.26 at 14h 29m 20s.xml">
-      <configuration name="TestCheckMenu" configurationId="JUnit" />
+    <history-entry file="TestCountriesZonesSort - 2019.04.29 at 16h 43m 29s.xml">
+      <configuration name="TestCountriesZonesSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStickers - 2019.04.26 at 14h 41m 18s.xml">
-      <configuration name="TestStickers" configurationId="JUnit" />
+    <history-entry file="TestCountriesZonesSort_test - 2019.04.29 at 16h 44m 58s.xml">
+      <configuration name="TestCountriesZonesSort.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStickers - 2019.04.26 at 14h 42m 25s.xml">
-      <configuration name="TestStickers" configurationId="JUnit" />
+    <history-entry file="TestCountriesZonesSort - 2019.04.29 at 16h 46m 18s.xml">
+      <configuration name="TestCountriesZonesSort" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,8 +325,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3445287" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38136512" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3445287" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.38136512" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -351,10 +368,16 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java</url>
-          <line>32</line>
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestStickers.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="125" />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="128" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -475,22 +498,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestStickers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="231">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestStickers.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-end-line="40" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1042#1050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="46" column="60" lean-forward="true" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1290#1298#0" expanded="true" />
           </folding>
         </state>
       </provider>
