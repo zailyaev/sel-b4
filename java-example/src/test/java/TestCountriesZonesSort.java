@@ -44,8 +44,7 @@ public class TestCountriesZonesSort {
     }
 
     private List<String> getList() {
-        int count = driver.findElement(By.id("table-zones"))
-                .findElements(By.cssSelector("tr:not(.header)")).size() - 1;
+        int count = driver.findElements(By.cssSelector("#table-zones tr:not(.header)")).size() - 1;
         List<String> zones = new ArrayList<String>();
         for (int l = 0; l < count; l++){
             zones.add(driver.findElements(By.cssSelector("#table-zones tr:not(.header)"))
