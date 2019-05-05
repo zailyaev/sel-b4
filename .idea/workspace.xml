@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344e6e7b-5ca3-46d2-9f21-cf32262082d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java/target/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -50,39 +51,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="125">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1488#1496#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1155#1163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1824#1832#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,6 +99,7 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestCountriesAndGeozones.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java" />
       </list>
     </option>
   </component>
@@ -134,9 +109,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="945" />
-    <option name="y" value="34" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="941" />
+    <option name="y" value="22" />
     <option name="width" value="986" />
     <option name="height" value="1019" />
   </component>
@@ -212,32 +187,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestGeozonesSort">
-    <configuration name="TestCountriesAndGeozones.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCountriesAndGeozones" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestProductProperties">
     <configuration name="TestCountriesZonesSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestCountriesZonesSort" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCountriesZonesSort.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCountriesZonesSort" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -261,22 +216,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSearchYandex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.test" />
+    <configuration name="TestProductProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestSearchYandex" />
+      <option name="MAIN_CLASS_NAME" value="TestProductProperties" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProductProperties.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestProductProperties" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestProductProperties" />
+        <item itemvalue="JUnit.TestProductProperties.test" />
         <item itemvalue="JUnit.TestGeozonesSort" />
         <item itemvalue="JUnit.TestGeozonesSort.test" />
         <item itemvalue="JUnit.TestCountriesZonesSort" />
-        <item itemvalue="JUnit.TestCountriesZonesSort.test" />
-        <item itemvalue="JUnit.TestCountriesAndGeozones.test" />
       </list>
     </recent_temporary>
   </component>
@@ -294,42 +259,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestGeozonesSort - 2019.04.29 at 20h 22m 49s.xml">
-      <configuration name="TestGeozonesSort" configurationId="JUnit" />
+    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 33m 33s.xml">
+      <configuration name="TestProductProperties.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGeozonesSort_test - 2019.04.30 at 11h 06m 41s.xml">
-      <configuration name="TestGeozonesSort.test" configurationId="JUnit" />
+    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 38m 31s.xml">
+      <configuration name="TestProductProperties.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGeozonesSort_test - 2019.04.30 at 19h 57m 37s.xml">
-      <configuration name="TestGeozonesSort.test" configurationId="JUnit" />
+    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 39m 52s.xml">
+      <configuration name="TestProductProperties.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGeozonesSort_test - 2019.04.30 at 20h 36m 55s.xml">
-      <configuration name="TestGeozonesSort.test" configurationId="JUnit" />
+    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 41m 01s.xml">
+      <configuration name="TestProductProperties.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGeozonesSort_test - 2019.04.30 at 20h 38m 47s.xml">
-      <configuration name="TestGeozonesSort.test" configurationId="JUnit" />
+    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 54m 23s.xml">
+      <configuration name="TestProductProperties.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGeozonesSort - 2019.04.30 at 20h 45m 15s.xml">
-      <configuration name="TestGeozonesSort" configurationId="JUnit" />
+    <history-entry file="TestProductProperties_test - 2019.05.05 at 18h 54m 09s.xml">
+      <configuration name="TestProductProperties.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGeozonesSort - 2019.04.30 at 20h 47m 52s.xml">
-      <configuration name="TestGeozonesSort" configurationId="JUnit" />
+    <history-entry file="TestProductProperties_test - 2019.05.05 at 18h 57m 35s.xml">
+      <configuration name="TestProductProperties.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCountriesZonesSort_test - 2019.04.30 at 21h 02m 15s.xml">
-      <configuration name="TestCountriesZonesSort.test" configurationId="JUnit" />
+    <history-entry file="TestProductProperties_test - 2019.05.05 at 18h 58m 35s.xml">
+      <configuration name="TestProductProperties.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGeozonesSort_test - 2019.04.30 at 21h 10m 34s.xml">
-      <configuration name="TestGeozonesSort.test" configurationId="JUnit" />
+    <history-entry file="TestProductProperties - 2019.05.05 at 19h 57m 06s.xml">
+      <configuration name="TestProductProperties" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestGeozonesSort_test - 2019.04.30 at 22h 18m 50s.xml">
-      <configuration name="TestGeozonesSort.test" configurationId="JUnit" />
+    <history-entry file="TestProductProperties - 2019.05.05 at 20h 02m 26s.xml">
+      <configuration name="TestProductProperties" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="945" y="34" width="986" height="1019" extended-state="0" />
+    <frame x="941" y="22" width="986" height="1019" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07343412" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.032397408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,8 +303,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3442438" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39729118" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3442438" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39729118" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -392,102 +357,6 @@
           <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="285" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="286" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="287" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="289" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="290" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="291" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="292" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="293" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="294" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="295" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="297" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="298" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="299" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="300" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="303" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="304" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -507,13 +376,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/pom.xml" />
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Name.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -537,16 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestInternetExplorerBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -578,16 +430,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MenuCheckTest.java" />
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestFirefoxBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestStickers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -630,13 +472,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestFirefoxBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestInternetExplorerBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.141.59/8e9423038552821844ba5f7713cc4c1e6d9835b7/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="274" column="44" selection-start-line="274" selection-start-column="44" selection-end-line="274" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="193">
+          <caret line="30" column="53" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="30" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1488#1496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
