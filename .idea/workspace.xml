@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344e6e7b-5ca3-46d2-9f21-cf32262082d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java/target/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -67,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+            <state relative-caret-position="340">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -211,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestAddNewProduct">
+  <component name="RunManager" selected="JUnit.TestAddNewProduct.test">
     <configuration name="TestAddNewProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -262,8 +261,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestAddNewProduct" />
         <item itemvalue="JUnit.TestAddNewProduct.test" />
+        <item itemvalue="JUnit.TestAddNewProduct" />
         <item itemvalue="JUnit.TestAddNewProduct.login" />
         <item itemvalue="JUnit.TestUserRegistration" />
         <item itemvalue="JUnit.TestUserRegistration.test" />
@@ -284,15 +283,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAddNewProduct_test - 2019.05.06 at 18h 38m 35s.xml">
-      <configuration name="TestAddNewProduct.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestAddNewProduct - 2019.05.06 at 18h 39m 16s.xml">
-      <configuration name="TestAddNewProduct" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestAddNewProduct - 2019.05.06 at 18h 39m 56s.xml">
-      <configuration name="TestAddNewProduct" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestAddNewProduct_test - 2019.05.06 at 18h 40m 39s.xml">
       <configuration name="TestAddNewProduct.test" configurationId="JUnit" />
     </history-entry>
@@ -313,6 +303,15 @@
     </history-entry>
     <history-entry file="TestAddNewProduct - 2019.05.06 at 18h 47m 58s.xml">
       <configuration name="TestAddNewProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAddNewProduct - 2019.05.06 at 18h 51m 41s.xml">
+      <configuration name="TestAddNewProduct" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAddNewProduct_test - 2019.05.06 at 19h 04m 07s.xml">
+      <configuration name="TestAddNewProduct.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAddNewProduct_test - 2019.05.06 at 19h 05m 23s.xml">
+      <configuration name="TestAddNewProduct.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -381,6 +380,18 @@
           <line>29</line>
           <properties />
           <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="468" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -569,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        <state relative-caret-position="340">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

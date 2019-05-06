@@ -30,8 +30,8 @@ public class TestAddNewProduct {
         driver.findElement(By.xpath("//input[@value='1-3']")).click();
         driver.findElement(By.name("quantity")).clear();
         driver.findElement(By.name("quantity")).sendKeys("100");
-        File file = new File("D:/TestProjects/java-example/src/test/pictures/darth-vader-duck.jpg");
-        driver.findElement(By.name("new_images[]")).sendKeys(file.getAbsolutePath());
+        String path = new File("src/test/pictures/darth-vader-duck.jpg").getAbsolutePath();
+        driver.findElement(By.name("new_images[]")).sendKeys(path);
         driver.findElement(By.name("date_valid_from")).sendKeys("01012019");
         driver.findElement(By.name("date_valid_to")).sendKeys("01012020");
         driver.findElement(By.linkText("Information")).click();
