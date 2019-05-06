@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344e6e7b-5ca3-46d2-9f21-cf32262082d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/TestUserRegistration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java/target/" />
@@ -51,12 +51,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestUserRegistration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="374">
+              <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2015#2016#0" expanded="true" />
+                <element signature="e#2080#2081#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1824#1832#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,6 +115,7 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/TestUserRegistration.java" />
       </list>
     </option>
   </component>
@@ -109,9 +125,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="941" />
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2121" />
+    <option name="y" value="5" />
     <option name="width" value="986" />
     <option name="height" value="1019" />
   </component>
@@ -187,31 +203,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestProductProperties">
-    <configuration name="TestCountriesZonesSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCountriesZonesSort" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestUserRegistration">
     <configuration name="TestGeozonesSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestGeozonesSort" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestGeozonesSort.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestGeozonesSort" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -235,13 +232,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestUserRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestUserRegistration" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserRegistration.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestUserRegistration" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestProductProperties" />
+        <item itemvalue="JUnit.TestUserRegistration" />
+        <item itemvalue="JUnit.TestUserRegistration.test" />
         <item itemvalue="JUnit.TestProductProperties.test" />
+        <item itemvalue="JUnit.TestProductProperties" />
         <item itemvalue="JUnit.TestGeozonesSort" />
-        <item itemvalue="JUnit.TestGeozonesSort.test" />
-        <item itemvalue="JUnit.TestCountriesZonesSort" />
       </list>
     </recent_temporary>
   </component>
@@ -259,42 +275,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 33m 33s.xml">
-      <configuration name="TestProductProperties.test" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 07m 56s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 38m 31s.xml">
-      <configuration name="TestProductProperties.test" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 10m 22s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 39m 52s.xml">
-      <configuration name="TestProductProperties.test" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration_test - 2019.05.06 at 14h 19m 31s.xml">
+      <configuration name="TestUserRegistration.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 41m 01s.xml">
-      <configuration name="TestProductProperties.test" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 20m 24s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties_test - 2019.05.04 at 21h 54m 23s.xml">
-      <configuration name="TestProductProperties.test" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 22m 25s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties_test - 2019.05.05 at 18h 54m 09s.xml">
-      <configuration name="TestProductProperties.test" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 23m 42s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties_test - 2019.05.05 at 18h 57m 35s.xml">
-      <configuration name="TestProductProperties.test" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 25m 46s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties_test - 2019.05.05 at 18h 58m 35s.xml">
-      <configuration name="TestProductProperties.test" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 44m 12s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties - 2019.05.05 at 19h 57m 06s.xml">
-      <configuration name="TestProductProperties" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 45m 23s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestProductProperties - 2019.05.05 at 20h 02m 26s.xml">
-      <configuration name="TestProductProperties" configurationId="JUnit" />
+    <history-entry file="TestUserRegistration - 2019.05.06 at 14h 48m 24s.xml">
+      <configuration name="TestUserRegistration" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="941" y="22" width="986" height="1019" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.032397408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -303,8 +319,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3442438" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39729118" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33044422" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39653304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -356,6 +372,12 @@
           <line>29</line>
           <properties />
           <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestUserRegistration.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="378" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -430,33 +452,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MenuCheckTest.java" />
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestStickers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCheckMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="37" selection-end-line="40" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1824#1832#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -517,12 +518,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestStickers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="374">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestProductProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-end-line="93" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCountriesZonesSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1824#1832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestUserRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2015#2016#0" expanded="true" />
+            <element signature="e#2080#2081#0" expanded="true" />
           </folding>
         </state>
       </provider>
