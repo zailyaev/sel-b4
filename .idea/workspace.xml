@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344e6e7b-5ca3-46d2-9f21-cf32262082d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/TestBrowserLog.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java/target/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -50,35 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="43" column="78" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="323">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,7 +113,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2592" />
     <option name="y" value="137" />
     <option name="width" value="986" />
@@ -183,14 +158,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="java-example" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="pictures" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -224,20 +191,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BrowserLog">
-    <configuration name="BrowserLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestBrowserLog">
+    <configuration name="TestBrowserLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BrowserLog" />
+      <option name="MAIN_CLASS_NAME" value="TestBrowserLog" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BrowserLog.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestBrowserLog.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BrowserLog" />
+      <option name="MAIN_CLASS_NAME" value="TestBrowserLog" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -275,8 +242,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BrowserLog" />
-        <item itemvalue="JUnit.BrowserLog.test" />
+        <item itemvalue="JUnit.TestBrowserLog" />
+        <item itemvalue="JUnit.TestBrowserLog.test" />
         <item itemvalue="JUnit.TestCart.test" />
         <item itemvalue="JUnit.TestCart" />
         <item itemvalue="JUnit.TestLinksOpenNewWindow.test" />
@@ -330,9 +297,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,7 +307,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33044422" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33044422" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39653304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,13 +416,13 @@
           <option name="timeStamp" value="537" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestBrowserLog.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="549" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestBrowserLog.java</url>
           <line>33</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
@@ -464,25 +430,25 @@
           <option name="timeStamp" value="550" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestBrowserLog.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="551" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestBrowserLog.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="552" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestBrowserLog.java</url>
           <line>36</line>
           <properties />
           <option name="timeStamp" value="553" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestBrowserLog.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="554" />
@@ -607,11 +573,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestGeozonesSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="30" column="53" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="30" selection-end-column="53" />
+        <state relative-caret-position="323">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1488#1496#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -707,7 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestBrowserLog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />

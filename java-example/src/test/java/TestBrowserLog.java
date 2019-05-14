@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;
 
-public class BrowserLog {
+public class TestBrowserLog {
     private WebDriver driver;
     public WebDriverWait wait;
 
