@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344e6e7b-5ca3-46d2-9f21-cf32262082d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/TestCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/TestCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java/target/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -49,11 +50,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="34" column="60" lean-forward="true" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+            <state relative-caret-position="244">
+              <caret line="43" column="78" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="33" column="65" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="65" />
+            <state relative-caret-position="74">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,6 +128,7 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestLinksOpenNewWindow.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/TestCart.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java" />
       </list>
     </option>
   </component>
@@ -210,11 +224,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestCart.test">
-    <configuration name="TestAddNewProduct.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BrowserLog">
+    <configuration name="BrowserLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestAddNewProduct" />
+      <option name="MAIN_CLASS_NAME" value="BrowserLog" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserLog.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BrowserLog" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -240,15 +263,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLinksOpenNewWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLinksOpenNewWindow" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestLinksOpenNewWindow.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -261,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BrowserLog" />
+        <item itemvalue="JUnit.BrowserLog.test" />
         <item itemvalue="JUnit.TestCart.test" />
         <item itemvalue="JUnit.TestCart" />
         <item itemvalue="JUnit.TestLinksOpenNewWindow.test" />
-        <item itemvalue="JUnit.TestLinksOpenNewWindow" />
-        <item itemvalue="JUnit.TestAddNewProduct.test" />
       </list>
     </recent_temporary>
   </component>
@@ -283,35 +297,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLinksOpenNewWindow - 2019.05.08 at 15h 00m 58s.xml">
-      <configuration name="TestLinksOpenNewWindow" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLinksOpenNewWindow_test - 2019.05.08 at 16h 56m 42s.xml">
-      <configuration name="TestLinksOpenNewWindow.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLinksOpenNewWindow_test - 2019.05.08 at 17h 00m 51s.xml">
-      <configuration name="TestLinksOpenNewWindow.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLinksOpenNewWindow_test - 2019.05.08 at 17h 02m 04s.xml">
-      <configuration name="TestLinksOpenNewWindow.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLinksOpenNewWindow_test - 2019.05.08 at 17h 24m 27s.xml">
-      <configuration name="TestLinksOpenNewWindow.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLinksOpenNewWindow_test - 2019.05.08 at 17h 30m 00s.xml">
-      <configuration name="TestLinksOpenNewWindow.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLinksOpenNewWindow_test - 2019.05.08 at 17h 30m 31s.xml">
-      <configuration name="TestLinksOpenNewWindow.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCart - 2019.05.13 at 18h 55m 31s.xml">
+    <history-entry file="TestCart - 2019.05.14 at 14h 30m 13s.xml">
       <configuration name="TestCart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCart_test - 2019.05.14 at 14h 26m 25s.xml">
+    <history-entry file="TestCart - 2019.05.14 at 14h 30m 52s.xml">
+      <configuration name="TestCart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCart_test - 2019.05.14 at 14h 31m 07s.xml">
       <configuration name="TestCart.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCart_test - 2019.05.14 at 14h 27m 27s.xml">
-      <configuration name="TestCart.test" configurationId="JUnit" />
+    <history-entry file="BrowserLog_test - 2019.05.14 at 16h 01m 00s.xml">
+      <configuration name="BrowserLog.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrowserLog_test - 2019.05.14 at 16h 03m 12s.xml">
+      <configuration name="BrowserLog.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrowserLog_test - 2019.05.14 at 16h 06m 02s.xml">
+      <configuration name="BrowserLog.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrowserLog - 2019.05.14 at 16h 06m 46s.xml">
+      <configuration name="BrowserLog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrowserLog_test - 2019.05.14 at 16h 07m 11s.xml">
+      <configuration name="BrowserLog.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrowserLog - 2019.05.14 at 16h 09m 13s.xml">
+      <configuration name="BrowserLog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrowserLog - 2019.05.14 at 16h 09m 46s.xml">
+      <configuration name="BrowserLog" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -383,51 +397,95 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
-          <line>42</line>
+          <line>43</line>
           <properties />
           <option name="timeStamp" value="524" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
-          <line>44</line>
+          <line>45</line>
           <properties />
           <option name="timeStamp" value="525" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
-          <line>43</line>
+          <line>44</line>
           <properties />
           <option name="timeStamp" value="526" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
-          <line>46</line>
+          <line>47</line>
           <properties />
           <option name="timeStamp" value="527" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
-          <line>45</line>
+          <line>46</line>
           <properties />
           <option name="timeStamp" value="528" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
-          <line>39</line>
+          <line>40</line>
           <properties />
           <option name="timeStamp" value="533" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
-          <line>38</line>
+          <line>39</line>
           <properties />
           <option name="timeStamp" value="535" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
-          <line>37</line>
+          <line>38</line>
           <properties />
           <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <line>33</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="554" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -622,20 +680,37 @@
     <entry file="file://$PROJECT_DIR$/java-example/src/test/pictures/darth-vader-duck.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="33" column="65" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="65" />
+        <state relative-caret-position="244">
+          <caret line="43" column="78" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestCart.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/TestAddNewProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="34" column="60" lean-forward="true" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+        <state relative-caret-position="74">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/BrowserLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
