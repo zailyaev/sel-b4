@@ -35,6 +35,11 @@ public class TestCart {
             wait.until(ExpectedConditions.alertIsPresent());
             Alert alert = driver.switchTo().alert();
             alert.accept();
+            driver.navigate().refresh();
+            WebElement quantity = driver.findElement(By.className("quantity"));
+            String text = Integer.toString(i);
+            wait.until(ExpectedConditions.textToBePresentInElement(quantity, text));
+
         }
         driver.findElement(By.xpath("//a[contains(.,'Checkout »')]")).click();
         List<WebElement> goodsInCart = driver.findElements(By.cssSelector(".shortcut"));
